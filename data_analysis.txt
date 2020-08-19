@@ -1,0 +1,5 @@
+ Data Analysis
+
+	1.	Looking at just the Northern Hemisphere as the city latitude increased the maximum temperature decreased. This is something we expected from natural occurring weather patterns.
+	2.	Looking at the Northern and Southern Hemispheres vs Humidity % I was shocked to see that there wasn’t a stronger correlation with the data. In the Northern Hemisphere I excepted to see as the latitude increased the humidity would decrease where as I would expect the opposite for the Southern Hemisphere.
+	3.	Overall looking at the data as a whole in the end there doesn’t seem to be any correlation between Latitude and Max. Temperature.
