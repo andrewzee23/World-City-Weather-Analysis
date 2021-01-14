@@ -12,6 +12,7 @@ Creating a Python script to visualize the weather of 500+ cities across the worl
 * Cloudiness (%) vs. Latitude
     ![Cloudiness (%) vs. Latitude](output_data/cityvscloudiness.png)
 * Wind Speed (mph) vs. Latitude
+    ![Wind Speed (mph) vs. Latitude](output_data/cityvswindspeed.png)
 
 ### Linear Regression Plots
 
