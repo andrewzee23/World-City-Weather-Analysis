@@ -5,7 +5,8 @@ Creating a Python script to visualize the weather of 500+ cities across the worl
 ### Scatter Plots
 
 * Temperature (F) vs. Latitude
-![Temerature (F) vs Latitude](output_data/cityvstemp.png)
+
+    ![Temerature (F) vs Latitude](output_data/cityvstemp.png)
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
