@@ -2,9 +2,10 @@
 
 Creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator, utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
-### Plots
+### Scatter Plots
 
 * Temperature (F) vs. Latitude
+![Temerature (F) vs Latitude](output_data/cityvstemp.png)
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
