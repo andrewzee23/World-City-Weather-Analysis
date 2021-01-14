@@ -20,10 +20,27 @@ Creating a Python script to visualize the weather of 500+ cities across the worl
 ### Linear Regression Plots
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
+
+    ![Northern Hemisphere - Temperature (F) vs. Latitude](output_data/nh_maxvslat_lr.png)
+
 * Southern Hemisphere - Temperature (F) vs. Latitude
+
+    ![Southern Hemisphere - Temperature (F) vs. Latitude](output_data/sh_maxvslat_lr.png)
 * Northern Hemisphere - Humidity (%) vs. Latitude
+
+    ![Northern Hemisphere - Humidity (%) vs. Latitude](output_data/nh_humidityvslat_lr.png)
 * Southern Hemisphere - Humidity (%) vs. Latitude
+
+    ![Southern Hemisphere - Humidity (%) vs. Latitude](output_data/sh_humidityvslat_lr.png)
 * Northern Hemisphere - Cloudiness (%) vs. Latitude
+
+    ![Northern Hemisphere - Cloudiness (%) vs. Latitude](output_data/nh_latvsclouds_lr.png)
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
+
+    ![Southern Hemisphere - Cloudiness (%) vs. Latitude](output_data/sh_latvsclouds_lr.png)
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
+
+    ![Northern Hemisphere - Wind Speed (mph) vs. Latitude](output_data/nh_latvswindspeed_lr.png)
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
+
+    ![Southern Hemisphere - Wind Speed (mph) vs. Latitude](output_data/sh_latvswindspeed_lr.png)
