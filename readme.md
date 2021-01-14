@@ -8,7 +8,9 @@ Creating a Python script to visualize the weather of 500+ cities across the worl
 
     ![Temerature (F) vs Latitude](output_data/cityvstemp.png)
 * Humidity (%) vs. Latitude
+    ![Humidity (%) vs. Latitude](output_data/cityvshumidity.png)
 * Cloudiness (%) vs. Latitude
+    ![Cloudiness (%) vs. Latitude](output_data/cityvscloudiness.png)
 * Wind Speed (mph) vs. Latitude
 
 ### Linear Regression Plots
